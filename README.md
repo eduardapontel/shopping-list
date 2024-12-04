@@ -37,8 +37,10 @@ The layout showcases the structure, color scheme, and visual design of the shopp
 **Or** follow the steps below to run it locally:
 
 - Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/shopping-list.git
+   
 - Open index.html in your browser.
   
 <br>
