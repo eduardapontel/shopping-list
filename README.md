@@ -39,7 +39,7 @@ The layout showcases the structure, color scheme, and visual design of the shopp
 - Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/shopping-list.git
+   git clone https://github.com/eduardapontel/shopping-list.git
    
 - Open index.html in your browser.
   
