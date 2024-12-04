@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping List</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <img class="desktop-only" src="./img/logo.svg" alt="logo">
+
+    <a id="link" href=""><img src="./img/arrow.png" alt="arrow icon"> Back </a>
+    <h1>Weekly Shopping</h1>
+
+    <form>
+        <input type="text" placeholder="Add a new item">
+        <button>Add Item</button>
+    </form>
+
+    <ul id="list">
+
+    </ul>
+
+    <div id="warning">
+        <img src="./img/warning.svg" alt="warning icon">
+        <span id="warning-text">O item foi removido da lista</span>
+        <img id="delete-warning" src="./img/delete.svg" alt="delete icon" onclick="deleteWarning()">
+    </div>
+    <script src="./script.js"></script>
+</body>
+
+</html>
