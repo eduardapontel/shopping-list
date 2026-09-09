@@ -51,3 +51,8 @@ The layout showcases the structure, color scheme, and visual design of the shopp
 
 Feel free to contribute to this project by submitting issues or pull requests. Your feedback and suggestions are always welcome!
 
+<br>
+
+## Notes 📌
+
+This is a static front-end project created for demonstration purposes. This page does not include backend integration or data persistence.
