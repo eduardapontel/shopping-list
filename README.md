@@ -1,6 +1,6 @@
 # Shopping List 🛒
 
-This project is a simple shopping list application that allows users to add, check off, and delete items from their shopping list. The application is built using HTML, CSS, and JavaScript, providing a clean and interactive user interface.
+This project is a simple responsive shopping list application that allows users to add, check off, and delete items from their shopping list. The application is built using HTML, CSS, and JavaScript, providing a clean and interactive user interface.
 
 <br>
 
@@ -18,6 +18,7 @@ The layout showcases the structure, color scheme, and visual design of the shopp
 - **Checkbox Functionality**: Mark items as completed by clicking on the checkbox.
 - **Delete Items**: Remove items from the list with a simple click.
 - **Warning Notification**: A notification appears when an item is deleted, enhancing user experience.
+- **Responsive Design**: The layout adjusts across various screen sizes, ensuring a smooth experience on desktops, tablets, and mobile devices.
 
 <br>
 
@@ -39,9 +40,10 @@ The layout showcases the structure, color scheme, and visual design of the shopp
 - Clone the repository:
 
    ```bash
-   git clone https://github.com/eduardapontel/shopping-list.git
-   
-- Open index.html in your browser.
+      git clone https://github.com/eduardapontel/shopping-list.git
+   ```
+
+- Open ```index.html``` in your browser.
   
 <br>
 
